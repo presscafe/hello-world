@@ -1,2 +1,3 @@
-# hello-world
-hello-world
+void main() {
+  print('Hello, World!');
+}
